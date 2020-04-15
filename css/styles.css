@@ -1,0 +1,10 @@
+header > h1 {
+  font-weight: normal;
+  text-align: center;
+}
+
+footer p {
+  color: gray;
+  text-align: center;
+  font-size: 12px;
+}
